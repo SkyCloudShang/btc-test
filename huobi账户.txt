@@ -1,0 +1,43 @@
+wget http://mirrors.163.com/centos/7/os/x86_64/Packages/yum-3.4.3-158.el7.centos.noarch.rpm 
+wget http://mirrors.163.com/centos/7/os/x86_64/Packages/yum-metadata-parser-1.1.4-10.el7.x86_64.rpm 
+wget http://mirrors.163.com/centos/7/os/x86_64/Packages/yum-utils-1.1.31-45.el7.noarch.rpm   
+wget http://mirrors.163.com/centos/7/os/x86_64/Packages/yum-updateonboot-1.1.31-45.el7.noarch.rpm 
+wget http://mirrors.163.com/centos/7/os/x86_64/Packages/yum-plugin-filter-data-1.1.31-45.el7.noarch.rpm 
+
+
+
+
+
+wget http://mirrors.163.com/centos/7/os/x86_64/Packages/yum-plugin-fastestmirror-1.1.31-45.el7.noarch.rpm  
+
+
+
+
+rpm -ivh http://mirrors.163.com/centos/7/os/x86_64/Packages/yum-3.4.3-158.el7.centos.noarch.rpm  \
+    http://mirrors.163.com/centos/7/os/x86_64/Packages/yum-plugin-fastestmirror-1.1.31-45.el7.noarch.rpm  
+
+
+sudo ln -s /usr/bin/python2.7 /usr/bin/python
+
+
+
+
+
+数据库：mysql -h sz1.me -uroot -proot
+
+开发机：119.28.85.56 36000  
+	密码:Qq332696616!
+
+
+Access Key：19e2b919-293d191e-8f7c8e07-99cfd
+Secret Key：72ef8a11-01d8b069-7f744b64-f5c5f
+
+
+我的主账户
+Access Key  4fe59f51-78f30cb9-e7555e61-c6502
+Secret Key  6fd25e3c-9e98dc25-9a440fc6-5305c
+
+
+我的子账户
+Access Key  bae1c9d6-e8738795-9851bf8c-f2135
+Secret Key  018df60a-abe1db30-c8022098-bf7c8
